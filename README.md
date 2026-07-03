@@ -21,6 +21,10 @@ Un apasionado **Estudiante de 9no ciclo de Ingeniería de Telecomunicaciones** e
 
 Aquí encontrarás los repositorios de mis despliegues y simulaciones más importantes:
 
+#### 💸 0. Plataformas de Tarifación (Charging Systems) y VAS (Value Added Services / Servicios de Valor Agregado)
+*   **[Desarrollo de Motor de Tarifación Pospago (OFCS) y Billing con Python](./tu-repositorio)**
+    *   *¿Qué hice?* Diseñé e implementé una red convergente que interconecta de manera exitosa 5 sedes a nivel nacional (Lima, Trujillo, Paracas, Cusco y Arequipa) usando direccionamiento IPv6, RIPng y aseguramiento mediante SSH y servidores TFTP centralizados.
+
 #### 🌐 1. Infraestructura de Redes & Telecomunicaciones
 *   **[Red Corporativa IPv6 & Servicios Telemáticos - Aranwa S.A.](./tu-repositorio)**
     *   *¿Qué hice?* Diseñé e implementé una red convergente que interconecta de manera exitosa 5 sedes a nivel nacional (Lima, Trujillo, Paracas, Cusco y Arequipa) usando direccionamiento IPv6, RIPng y aseguramiento mediante SSH y servidores TFTP centralizados.
