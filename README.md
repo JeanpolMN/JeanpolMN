@@ -22,7 +22,7 @@ Un apasionado **Estudiante de 9no ciclo de Ingeniería de Telecomunicaciones** e
 Aquí encontrarás los repositorios de mis despliegues y simulaciones más importantes:
 
 #### 💸 0. Plataformas de Tarifación (Charging Systems) y VAS (Value Added Services / Servicios de Valor Agregado)
-*   **[Desarrollo de Motor de Tarifación Pospago (OFCS) y Billing con Python](./https://github.com/JeanpolMN/Telco-OFCS-Billing-Engine)**
+*   **[Desarrollo de Motor de Tarifación Pospago (OFCS) y Billing con Python](/JeanpolM/Telco-OFCS-Billing-Engine)**
     *   *¿Qué hice?* Motor de tasación y facturación Pospago para redes de telecomunicaciones.
 
 #### 🌐 1. Infraestructura de Redes & Telecomunicaciones
