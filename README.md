@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jeanpol Martin Nieto Ramos 👋
+# ¡Hola! Soy Jeanpol Nieto 👋
 
 Un apasionado **Estudiante de 9no ciclo de Ingeniería de Telecomunicaciones** en la UNMSM, especializado en el diseño, configuración, automatización y aseguramiento de infraestructura de red y servicios TI. Mi enfoque está orientado a la mejora continua (Kaizen), el troubleshooting analítico y la creación de soluciones corporativas de alta disponibilidad.
 
